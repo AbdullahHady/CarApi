@@ -1,0 +1,46 @@
+#navID
+{
+    height: 100px;
+}
+
+#logoID
+{
+    padding-left: 630px;
+    text-align: center;
+    font-size: 30px;
+}
+#car1
+{
+    padding-left: 100px;
+}
+
+#paraID
+{
+    padding-top: 50px;
+    padding-left: 520px;
+    color: white;
+    font-size: 25px;
+}
+#labelID
+{
+    padding-top: 50px;
+    padding-left: 690px;
+    color: white;
+}
+#buttonID
+{
+    position: absolute;
+    left: 770px;
+    top: 800px;
+}
+
+#footerID
+{
+
+    position: absolute;
+    top: 1000px;
+    background-color: black;
+    width: 1519px;
+    height: 90px;
+
+}

@@ -1,0 +1,112 @@
+#navID
+{
+    height: 100px;
+}
+
+#logoID
+{
+    padding-left: 630px;
+    text-align: center;
+    font-size: 30px;
+}
+
+#car1
+{
+    position: absolute;
+    left: 120px;
+    right: 0px;
+    top: 100px;
+}
+#headerID
+{
+    position: absolute;
+    text-align: center;
+    top: 650px;
+    left: 480px;
+    color: white;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+
+#idLabel
+{
+    position: absolute;
+    color: white;
+    top: 750px;
+    left: 250px;
+}
+#idInput
+{
+    position: absolute;
+    top: 745px;
+    left: 280px;
+}
+
+#vinLabel
+{
+    position: absolute;
+    color: white;
+    top: 750px;
+    left: 1050px;
+}
+#vinInput
+{
+    position: absolute;
+    top: 745px;
+    left: 1080px;
+}
+
+#modelLabel
+{
+    position: absolute;
+    color: white;
+    top: 810px;
+    left: 220px;
+}
+#modelInput
+{
+    position: absolute;
+    top: 810px;
+    left: 280px;
+}
+
+#makeLabel
+{
+    position: absolute;
+    color: white;
+    top: 810px;
+    left: 1030px;
+}
+#makeInput
+{
+    position: absolute;
+    top: 810px;
+    left: 1080px;
+}
+
+#buttonID
+{
+    position: absolute;
+    top: 1060px;
+    left: 710px;
+}
+#mileageLabel
+{
+    position: absolute;
+    color: white;
+    top: 940px;
+    left: 720px;
+}
+#mileageInput
+{
+    position: absolute;
+    top: 980px;
+    left: 656px;
+}
+#footerID
+{
+    position: absolute;
+    top: 1200px;
+    background-color: black;
+    width: 1519px;
+    height: 90px;
+}

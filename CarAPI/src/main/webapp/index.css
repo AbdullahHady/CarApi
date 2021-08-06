@@ -1,0 +1,85 @@
+#navID
+{
+    height: 100px;
+}
+
+#logoID
+{
+    padding-left: 630px;
+    text-align: center;
+    font-size: 30px;
+}
+
+#car1
+{
+    position: absolute;
+    left: 120px;
+    right: 0px;
+    top: 100px;
+}
+#headerID
+{
+    position: absolute;
+    text-align: center;
+    top: 650px;
+    left: 600px;
+}
+#allCar
+{
+    position: absolute;
+    top: 770px;
+    left: 640px;
+    width: 250px;
+    height: 50px;
+}
+body
+{
+    background-color:aquamarine;
+
+}
+#searchCar
+{
+    position: absolute;
+    top: 850px;
+    left: 640px;
+    width: 250px;
+    height: 50px;
+}
+#addCar
+{
+    position: absolute;
+    top: 930px;
+    left: 640px;
+    width: 250px;
+    height: 50px;
+}
+#updateCar
+{
+    position: absolute;
+    top: 1010px;
+    left: 640px;
+    width: 250px;
+    height: 50px;
+}
+
+#deleteCar
+{
+    position: absolute;
+    top: 1090px;
+    left: 640px;
+    width: 250px;
+    height: 50px;
+}
+
+#footerID
+{
+    position: absolute;
+    top: 1200px;
+    background-color: black;
+    width: 1519px;
+    height: 90px;
+}
+#footerText
+{
+    background-color: white;
+}
